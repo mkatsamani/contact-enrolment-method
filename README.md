@@ -10,11 +10,11 @@ This custom plugin, enrols a student to a teacher's course in Moodle, only if sh
 This is a custom enrolment plugin that a teacher can install in his site. Then he can choose to enable this method to any of his courses, in order to allow only to students that are in his contact list, to enrol to them. By default admin/creator can add, edit, hide and delete enrolment method's instances.
 
 ## Features
-- Add this enrolment method to a course.
-- Edit, hide, delete instances of this method.
-- Checks if a Student is in teacher's contact list in order to allow them to enrol to a course. If not shows an appropriate message.
+- Teacher can add this enrolment method to a course.
+- Teacher can edit, hide, delete instances of this method.
+- If a Student is in teacher's contact list, he is allowed to enrol to the course. If not an appropriate message is showed.
 
-##Installation
+## Installation
 Download the contact folder and save it to moodle/enrol folder.
 
 ## Dependencies
